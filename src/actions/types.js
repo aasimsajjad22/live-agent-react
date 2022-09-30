@@ -1,0 +1,24 @@
+export const GET_USERS = 'GET_USERS';
+export const USERS_ERROR = 'USERS_ERROR';
+export const GET_USER = 'GET_USER';
+export const USER_ERROR = 'USER_ERROR';
+export const UPDATE_USER = 'UPDATE_USER';
+export const UPDATE_USER_ERROR = 'UPDATE_USER_ERROR';
+
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+
+export const GET_BUSINESSES = 'GET_BUSINESSES';
+export const BUSINESSES_ERROR = 'BUSINESSES_ERROR';
+
+export const GET_AGENTS = 'GET_AGENTS';
+export const AGENTS_ERROR = 'AGENTS_ERROR';
+
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+
+export const GET_BUSINESSES_PROFILE = 'GET_BUSINESSES_PROFILE';
+export const BUSINESSES_PROFILE_ERROR = 'BUSINESSES_PROFILE_ERROR';
